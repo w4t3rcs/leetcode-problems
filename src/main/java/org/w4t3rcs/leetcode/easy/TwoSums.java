@@ -1,4 +1,4 @@
-package org.w4t3rcs.leetcode;
+package org.w4t3rcs.leetcode.easy;
 
 public class TwoSums {
     public static int[] twoSum(int[] nums, int target) {

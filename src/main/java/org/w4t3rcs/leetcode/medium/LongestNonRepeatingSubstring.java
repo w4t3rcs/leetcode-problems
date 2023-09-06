@@ -1,4 +1,4 @@
-package org.w4t3rcs.leetcode;
+package org.w4t3rcs.leetcode.medium;
 
 import java.util.HashMap;
 import java.util.Map;
